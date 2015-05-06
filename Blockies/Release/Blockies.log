@@ -1,0 +1,27 @@
+﻿Build started 04/05/2014 23:39:31.
+     1>Project "C:\Users\Michael\Dropbox\Programming\C++\SFML\Blockies\Blockies\Blockies.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CreditState.cpp GameState.cpp HighScoreState.cpp IntroState.cpp main.cpp MainGame.cpp Menu.cpp MenuState.cpp PlayState.cpp
+         CreditState.cpp
+     1>c:\users\michael\dropbox\programming\c++\sfml\blockies\blockies\MainGame.h(4): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+         GameState.cpp
+     1>c:\users\michael\dropbox\programming\c++\sfml\blockies\blockies\MainGame.h(4): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+         HighScoreState.cpp
+     1>c:\users\michael\dropbox\programming\c++\sfml\blockies\blockies\MainGame.h(4): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+         IntroState.cpp
+     1>c:\users\michael\dropbox\programming\c++\sfml\blockies\blockies\MainGame.h(4): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+         main.cpp
+     1>c:\users\michael\dropbox\programming\c++\sfml\blockies\blockies\MainGame.h(4): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+         MainGame.cpp
+     1>c:\users\michael\dropbox\programming\c++\sfml\blockies\blockies\MainGame.h(4): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+         Menu.cpp
+     1>c:\users\michael\dropbox\programming\c++\sfml\blockies\blockies\Menu.h(4): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+         MenuState.cpp
+     1>c:\users\michael\dropbox\programming\c++\sfml\blockies\blockies\MainGame.h(4): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+         PlayState.cpp
+     1>c:\users\michael\dropbox\programming\c++\sfml\blockies\blockies\MainGame.h(4): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+     1>Done Building Project "C:\Users\Michael\Dropbox\Programming\C++\SFML\Blockies\Blockies\Blockies.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.62

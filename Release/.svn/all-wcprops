@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/blockies/!svn/ver/27/Release
+END
+Blockies.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/blockies/!svn/ver/27/Release/Blockies.pdb
+END
+libsndfile-1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/blockies/!svn/ver/27/Release/libsndfile-1.dll
+END
+Blockies.exe
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/blockies/!svn/ver/27/Release/Blockies.exe
+END
+openal32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/blockies/!svn/ver/27/Release/openal32.dll
+END

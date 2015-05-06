@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Blockies">
+</Property><Property Name="Solution File" Value="C:\Users\Michael\Documents\Programing\C++\SFML\Blockies\Blockies.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Michael\Documents\Programing\C++\SFML\Blockies\Blockies.suo">
+</Property><Property Name="Date" Value="terça-feira, 11 de Maio de 2010">
+</Property><Property Name="Time" Value="18:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Blockies.sln" Description="File successfully backed up as C:\Users\Michael\Documents\Programing\C++\SFML\Blockies\Blockies.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Blockies.suo" Description="File successfully backed up as C:\Users\Michael\Documents\Programing\C++\SFML\Blockies\Blockies.suo.old">
+</Event><Event ErrorLevel="0" Project="Blockies" Source="Blockies\Blockies.vcproj" Description="Converting project file 'C:\Users\Michael\Documents\Programing\C++\SFML\Blockies\Blockies\Blockies.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Blockies" Source="Blockies\Blockies.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Blockies" Source="Blockies\Blockies.vcproj" Description="Done converting to new project file 'C:\Users\Michael\Documents\Programing\C++\SFML\Blockies\Blockies\Blockies.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Blockies" Source="Blockies\Blockies.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Blockies.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Blockies.sln" Description="Converted">
+</Event></UpgradeLog>

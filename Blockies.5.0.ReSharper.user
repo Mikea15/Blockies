@@ -1,0 +1,36 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0B4F75D5-D516-49C9-9833-7B4A0CDBE0C8/f:MainGame.h" caret="315" fromTop="0" />
+      <File id="0B4F75D5-D516-49C9-9833-7B4A0CDBE0C8/f:PlayState.cpp" caret="21169" fromTop="21" />
+      <File id="0B4F75D5-D516-49C9-9833-7B4A0CDBE0C8/f:PlayState.h" caret="1972" fromTop="103" />
+      <File id="0B4F75D5-D516-49C9-9833-7B4A0CDBE0C8/f:MenuState.h" caret="88" fromTop="0" />
+      <File id="0B4F75D5-D516-49C9-9833-7B4A0CDBE0C8/f:Menu.h" caret="0" fromTop="0" />
+      <File id="0B4F75D5-D516-49C9-9833-7B4A0CDBE0C8/f:Menu.cpp" caret="0" fromTop="0" />
+      <File id="0B4F75D5-D516-49C9-9833-7B4A0CDBE0C8/f:main.cpp" caret="0" fromTop="0" />
+      <File id="0B4F75D5-D516-49C9-9833-7B4A0CDBE0C8/f:IntroState.cpp" caret="182" fromTop="9" />
+      <File id="0B4F75D5-D516-49C9-9833-7B4A0CDBE0C8/f:MenuState.cpp" caret="2229" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0B4F75D5-D516-49C9-9833-7B4A0CDBE0C8/f:MenuState.cpp" caret="2229" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

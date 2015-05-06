@@ -1,0 +1,11 @@
+v0.1.5
+
+## To do.
+
+	In Pause. Time Still goes on. Check for a way to save the time in a var, then, re_put it back?
+	
+	
+## Bugs
+
+	So far so good.
+	Highscore loads multipe times due to re-playing the game. ( fixed: now loading the highscores when Iniciating Object. )
